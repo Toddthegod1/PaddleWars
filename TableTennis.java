@@ -1,6 +1,9 @@
 import javafx.scene.Scene;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.input.KeyCode;
+import javafx.animation.AnimationTimer;
+import javafx.scene.paint.Color;
+
 
 public class TableTennis {
 
