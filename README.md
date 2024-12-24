@@ -1,2 +1,2 @@
 # PaddleWars
-A game based on Table Tennis
+A game based on Pong but harder
